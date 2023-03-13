@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi there, Im Lucas Portillo 👋
+## Computer Science Student
 
-<!--
-**lucasporti/lucasporti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 🌱 I’m currently learning Web & Salesforce Development.
 
-Here are some ideas to get you started:
+| Nombre del comando | Descripción |
+| ------ | ------ |
+| clear | Limpia la terminal. |
+| pwd | Me da la ruta absoluta de donde estoy. |
+| sudo | Ejecutar comandos como super usuario. |
+| cd | Se utiliza para navegar entre directorios. |
+| ls | Muestra archivos y directorios que hay en el directorio actual. |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Alias utiles
+| Comando | Alias |
+| ------ | ------ |
+| ls -lh | ls |
+| tar -zxvf | untar |
